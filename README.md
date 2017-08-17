@@ -6,4 +6,4 @@ In this project I trasnform a design mockup file into a HTML site following the 
 2. Write your HTML and CSS files, continue to iterate until your work is representative of the design mockup.
 3. Validate your HTML and CSS against the W3C's Validators. 
 
-Videos showing how I achieve that: [![Create a webpage from a design mockup file]](https://youtu.be/eWM311JWqJ4)
+Videos showing how I achieve that: [Create a webpage from a design mockup file](https://youtu.be/eWM311JWqJ4)
